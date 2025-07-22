@@ -17,7 +17,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [View page from Github Pages](https://ajiashwathram.github.io/blog-component/)
 
 ### Built with
 
